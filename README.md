@@ -1,2 +1,2 @@
 # test
-buat belajar make githu
+buat belajar make github
